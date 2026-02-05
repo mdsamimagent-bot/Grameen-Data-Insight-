@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Grameen Data Insight (GDI) Website",
+  "description": "A professional 3D-themed market research website with integrated admin management for surveys, agents, and company content.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
